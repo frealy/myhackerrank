@@ -1,2 +1,2 @@
-# myhackerrank
-HackerRank Code - frealy
+# HackerRank
+HackerRank Code Solution - frealy
